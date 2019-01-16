@@ -23,3 +23,12 @@
     * [OFB](ch3/OFB.md)
     * [CTR](ch3/CTR.md)
 
+-----
+* [第四章：公钥密码](ch4/PublicKey.md)
+    * [密钥配送](ch4/Deliverty.md)
+    * [流程](ch4/Flow.md)
+    * [时钟运算](ch4/Clock.md)
+    * [加解密过程](ch4/Process.md)
+    * [攻击](ch4/Attack.md)
+    * [证明](ch4/Prove.md)
+

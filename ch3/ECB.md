@@ -5,7 +5,7 @@
 
 ### 加解密
 
-![](D:\person\person_books\GitBook\Cryptology\ch3\image\ECB模式.png)
+![](image/ECB模式.png)
 
 ### 弱点
 
