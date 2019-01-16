@@ -5,7 +5,7 @@
 
 ### 算法
 
-![](D:\person\person_books\GitBook\Cryptology\ch3\image\CBC加密.png)
+![](image/CBC加密.png)
 
 ### IV
 
