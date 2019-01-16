@@ -10,15 +10,15 @@
 
 ###### 算法
 
-![](image\凯撒密码.png)
+![](image/凯撒密码.png)
 
 ###### 加密
 
-![](image\凯撒密码加密.png)
+![](image/凯撒密码加密.png)
 
 ###### 破解
 
-![](D:\person\person_books\GitBook\Cryptology\ch1\image\凯撒密码暴力破解.png)
+![](image/凯撒密码暴力破解.png)
 
 ### 近现代密码
 
