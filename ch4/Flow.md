@@ -9,7 +9,7 @@
 
 ### 加解密流程
 
-![](D:\person\person_books\GitBook\Cryptology\ch4\image\公钥密码流程.png)
+![](image/公钥密码流程.png)
 
 ### 疑问
 
