@@ -40,7 +40,7 @@
 - XOR
 - NOT
 
-![](D:\person\person_books\GitBook\Cryptology\ch6\image\凯.png)
+![](image/凯.png)
 
 ##### τ（伊欧塔）
 
