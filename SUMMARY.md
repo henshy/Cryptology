@@ -37,7 +37,10 @@
     * [keccak](ch6/Keccak.md)
     * [攻击](ch6/Attack.md)
 * [第七章：消息认证码](ch7/authCode.md)
-    * [流程](ch7/Application.md)
+    * [流程](ch7/Flow.md)
     * [HMAC](ch7/HMAC.md)
     * [攻击](ch7/Attack.md)
+* [第八章：数字签名](ch8/signature.md)
+    * [流程](ch8/Flow.md)
+    * [攻击](ch8/Attack.md)
 
