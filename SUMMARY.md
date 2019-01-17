@@ -38,3 +38,10 @@
     * [加密](ch5/Encryption.md)
     * [解密](ch5/Decryption.md)
 
+## 认证
+* [第六章：单项散列函数](ch6/hash.md)
+    * [哈希应用](ch6/Application.md)
+    * [分类](ch6/Type.md)
+    * [keccak](ch6/Keccak.md)
+    * [攻击](ch6/Attack.md)
+
