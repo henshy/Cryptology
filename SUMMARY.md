@@ -43,4 +43,9 @@
 * [第八章：数字签名](ch8/signature.md)
     * [流程](ch8/Flow.md)
     * [攻击](ch8/signatureAttack.md)
+    * [对比](ch8/Compare.md)
+* [第九章：证书](ch9/certificate.md)
+    * [流程](ch9/Flow.md)
+    * [PKI](ch9/PKI.md)
+    * [攻击](ch9/certificateAttack.md)
 
