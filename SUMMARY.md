@@ -7,23 +7,17 @@
     * [密码分类](ch1/CryptologyType.md)
     * [密码常识](ch1/CryptologyCommonSense.md)
     * [密码历史](ch1/CryptologyHistory.md)
-
------
 * [第二章：对称密码](ch2/Symmetry.md)
     * [异或](ch2/Xor.md)
     * [DES](ch2/DES.md)
     * [3DES](ch2/3DES.md)
     * [AES](ch2/AES.md)
-
------
 * [第三章：分组密码](ch3/mod.md)
     * [ECB](ch3/ECB.md)
     * [CBC](ch3/CBC.md)
     * [CFB](ch3/CFB.md)
     * [OFB](ch3/OFB.md)
     * [CTR](ch3/CTR.md)
-
------
 * [第四章：公钥密码](ch4/PublicKey.md)
     * [密钥配送](ch4/Delivery.md)
     * [流程](ch4/Flow.md)
@@ -31,8 +25,6 @@
     * [加解密过程](ch4/Process.md)
     * [攻击](ch4/Attack.md)
     * [证明](ch4/Prove.md)
-
------
 * [第五章：混合密码](ch5/mixed.md)
     * [概述](ch5/Overview.md)
     * [加密](ch5/Encryption.md)
@@ -44,4 +36,8 @@
     * [分类](ch6/Type.md)
     * [keccak](ch6/Keccak.md)
     * [攻击](ch6/Attack.md)
+* [第七章：消息认证码](ch7/authCode.md)
+    * [流程](ch7/Application.md)
+    * [HMAC](ch7/HMAC.md)
+    * [攻击](ch7/Attack.md)
 
