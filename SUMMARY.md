@@ -45,7 +45,7 @@
     * [攻击](ch8/signatureAttack.md)
     * [对比](ch8/Compare.md)
 * [第九章：证书](ch9/certificate.md)
-    * [流程](ch9/Flow.md)
+    * [流程](ch9/certificateFlow.md)
     * [PKI](ch9/PKI.md)
     * [攻击](ch9/certificateAttack.md)
 * [第十章：SSL/TLS](ch10/TLS.md)
