@@ -71,7 +71,7 @@
 
 希特勒（1889.4.20-1945.4.30）：有统一世界的强大野心
 
-![](D:\person\person_books\GitBook\Cryptology\ch1\image\希特勒.png)
+![](image/希特勒.png)
 
 ![](image/enigma使用场景.png)
 
