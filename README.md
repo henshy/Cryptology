@@ -1,5 +1,11 @@
 # 概述
 
+Written By 
+
+​       Hensh / xu.huang@100credit.com
+
+------
+
 ### 什么是密码学？
 
 - 密码学（在西欧语文中之源于希腊语kryptós，“隐藏的”，和gráphein，“书写”）是研究如何隐密地传递信息的学科。
